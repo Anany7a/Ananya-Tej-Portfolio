@@ -13,4 +13,5 @@ export default defineConfig({
   server: {
     allowedHosts: ['legal-grapes-sleep.loca.lt'],
   },
+  base: process.env.VITE_BASE_PATH || "Ananya-Tej-Portfolio",
 })
