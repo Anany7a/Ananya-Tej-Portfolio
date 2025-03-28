@@ -60,7 +60,16 @@ const DramaClubPage = () => {
 
   return (
     <>
-      <PerformancePage {...performanceData} />
+      <PerformancePage {...performanceData} /> 
+      <iframe
+          src="https://www.youtube.com/embed/w9JMUyYWvvs"
+          frameBorder='0'
+          allow='autoplay; encrypted-media'
+          allowFullScreen
+          title='video'
+          className="w-[800px] h-[450px]"
+        />
+      </div>
       <div className="flex justify-center items-center mt-8 mb-8">
         <a href="https://www.instagram.com/stories/highlights/17945702750220146/" target="_blank" rel="noopener noreferrer" className="inline-block bg-gradient-to-r from-red-500 to-red-700 text-white font-semibold text-lg px-8 py-4 rounded-full shadow-lg hover:shadow-xl transition-all transform hover:scale-105">
           Check out on Instagram
