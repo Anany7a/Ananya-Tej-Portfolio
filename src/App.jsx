@@ -74,7 +74,7 @@ function App() {
       role: 'Assistant Director, Lead Actor & Co-Producer',
       year: '2025',
       type: 'Feature Film',
-      imageUrl: 'public/Proofs photos/Denstiny-1.jpg',
+      imageUrl: '/Proofs photos/Denstiny-1.jpg',
       path: '/destiny',
       subtitle: 'Featuring soon in World Film Festival',
       description: 'A Telugu-language feature film for the World Student Film Festival 2025 in Jaipur. Managing multiple roles including Assistant Director, Lead Actor, and Co-Producer.'
