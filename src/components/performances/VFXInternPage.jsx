@@ -4,7 +4,7 @@ import PerformancePage from './PerformancePage';
 const VFXInternPage = () => {
   const performanceData = {
     title: "VFX Internship",
-    year: "Aug - Sep 2023",
+    year: "2023",
     role: "VFX Intern",
     description: (
       <>
