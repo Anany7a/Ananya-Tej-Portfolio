@@ -16,7 +16,7 @@ const NukkadNatakPage = () => {
 
   const performanceData = {
     title: "Nukkad Natak",
-    year: "2023",
+    year: "2023", 
     role: "Lead Performer",
     description: (
       <>
