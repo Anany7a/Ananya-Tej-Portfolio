@@ -26,8 +26,8 @@ const DestinyPage = () => {
       </>
     ),
     images: [
-      "public/Proofs photos/Destiny-2.jpg",
-      "public/Proofs photos/Denstiny-1.jpg"
+      "Proofs photos/Destiny-2.jpg",
+      "Proofs photos/Denstiny-1.jpg"
     ],
     achievements: [
       "Selected for screening at World Student Film Festival 2025, Jaipur",
