@@ -61,7 +61,8 @@ const DramaClubPage = () => {
   return (
     <>
       <PerformancePage {...performanceData} /> 
-      <iframe
+      <div className="flex justify-center items-center mt-8">
+        <iframe
           src="https://www.youtube.com/embed/w9JMUyYWvvs"
           frameBorder='0'
           allow='autoplay; encrypted-media'
