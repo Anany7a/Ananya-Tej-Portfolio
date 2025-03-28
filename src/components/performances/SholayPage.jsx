@@ -4,7 +4,7 @@ import PerformancePage from './PerformancePage';
 const SholayPage = () => {
   const performanceData = {
     title: "Sholay",
-    year: "2024",
+    year: "2023",
     role: "Gabbar Singh",
     description: (
       <>
