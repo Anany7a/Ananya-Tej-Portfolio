@@ -48,8 +48,8 @@ const NukkadNatakPage = () => {
       </>
     ),
     images: [
-      "public/Proofs photos/Nukkad Natak-2.jpeg",
-      "/public/Proofs photos/img1.jpg"
+      "Proofs photos/Nukkad Natak-2.jpeg",
+      "Proofs photos/img1.jpg"
     ],
     achievements: [
       "Third place at Riviera national-level cultural fest",
