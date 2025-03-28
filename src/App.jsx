@@ -9,7 +9,7 @@ function App() {
     {
       title: 'Nukkad Natak',
       role: 'Lead Performer',
-      year: '2024',
+      year: '2023',
       type: 'Theater',
       imageUrl: '/Proofs photos/Nukkad Natak-2.jpeg',
       path: '/nukkad-natak',
@@ -18,7 +18,7 @@ function App() {
     {
       title: 'Sholay',
       role: 'Gabbar Singh',
-      year: '2024',
+      year: '2023',
       type: 'Theater',
       imageUrl: '/Proofs photos/Sholay-1.jpeg',
       path: '/sholay',
@@ -27,7 +27,7 @@ function App() {
     {
       title: 'The Naughty Boy',
       role: 'Lead Role',
-      year: '2015',
+      year: '2014',
       type: 'School Play',
       imageUrl: '/Proofs photos/Naughty Boy-1.jpeg',
       path: '/naughty-boy',
@@ -39,7 +39,7 @@ function App() {
     {
       title: 'Discover Acting',
       role: 'Professional Acting Course',
-      year: '2024',
+      year: '2025',
       type: 'Certification',
       imageUrl: '/Proofs photos/Discover Acting.jpeg',
       path: '/discover-acting',
