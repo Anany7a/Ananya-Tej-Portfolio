@@ -4,7 +4,7 @@ import PerformancePage from './PerformancePage';
 const DiscoverActingPage = () => {
   const performanceData = {
     title: "Discover Acting Course",
-    year: "2024",
+    year: "2025",
     role: "Learner (University of London - Royal Central School of Speech and Drama, via Coursera)",
     description: (
       <>
